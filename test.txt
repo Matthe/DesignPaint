@@ -1,0 +1,4 @@
+group 3
+rectangle 5 80 -44 255
+rectangle 137 103 587 369
+ellipse 276 207 737 465
